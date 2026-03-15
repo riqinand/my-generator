@@ -1,12 +1,19 @@
-# my-generator
+# My Generator
 
 ## Overview
-A generator for creating customizable templates for various projects.
+A versatile generator designed for creating customizable templates tailored to various project types, aiming to simplify the initial setup process.
 
 ## Features
-- Easy to use
-- Highly customizable
-- Supports multiple project types
+- Easy to use with simple commands
+- Highly customizable to fit project needs
+- Supports multiple project types (web apps, libraries, etc.)
 
 ## Usage
-Clone this repository and run the generator to start creating templates for your projects.
+1. Clone this repository: `git clone <repo-url>`
+2. Navigate to the directory and install dependencies: `npm install`
+3. Run the generator: `node generate.js`
+
+## Future Plans
+- Add more template options
+- Improve user interface
+- Support additional languages and frameworks
